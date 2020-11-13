@@ -1,6 +1,6 @@
 # DATA 512 Au 20: Human-Centered Data Science
 
-## A4: Final Project Preliminary Proposal
+## Final Project Preliminary Proposal
 
 ### Project Proposal
 This project aims to explore gun violence related crimes in the United States and to investigate if there are any significant socio-economic and/or demographic factors that lead to these crimes.
