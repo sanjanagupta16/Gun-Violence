@@ -9,8 +9,6 @@ Given the alarming trend at which homicidal shootings have been increasing, it's
 
 The purpose of this project is to explore this issue and to see if there exists a correlation between gun related crimes and the firearm laws mandated by each state. This project also wishes to explore the different socio-economic and/or demographic factors that lead to higher number of such incidents.
 
-The Final Report with the Analysis and Findings can be found [here](https://nbviewer.jupyter.org/github/sanjanagupta16/data-512-final/blob/main/Final%20Report.ipynb?flush_cache=False).
-
 ## Data
 #### Gun Violence Data
 
