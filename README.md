@@ -3,7 +3,7 @@
 ## Project Proposal
 This project aims to explore gun violence related crimes in the United States and to investigate if there are any significant socio-economic and/or demographic factors that lead to these crimes.
 
-The Final Report with the Analysis and Findings can be found [here](https://nbviewer.jupyter.org/github/sanjanagupta16/data-512-final/blob/main/Final%20Report.ipynb#research).
+The Final Report with the Analysis and Findings can be found [here](https://nbviewer.jupyter.org/github/sanjanagupta16/data-512-final/blob/main/Final%20Report.ipynb#motivation).
 
 ## Data
 #### Gun Violence Data
