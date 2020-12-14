@@ -1,9 +1,9 @@
 # DATA 512 Au 20: Human-Centered Data Science
 
-### Project Proposal
+## Project Proposal
 This project aims to explore gun violence related crimes in the United States and to investigate if there are any significant socio-economic and/or demographic factors that lead to these crimes.
 
-### Data
+## Data
 #### Gun Violence Data
 
 The primary dataset that will be used for analysis is the [Gun Violence Data](https://www.kaggle.com/jameslko/gun-violence-data) hosted on Kaggle. It is a comprehensive record of over 260K gun violence related incidents in the United States from 2013-2018. This data was web scraped from [Gun Violence Archive](https://www.gunviolencearchive.org/), a not-for-profit corporation that collects gun violence related incidents from over 7,500 law enforcement, media, government, and commercial sources daily.
@@ -31,5 +31,5 @@ Since gun laws differ for each state (and sometimes across counties as well), an
 The data curated can be found [here](https://github.com/sanjanagupta16/data-512-final/blob/main/data/gun_laws.csv).
 
 
-### License
+## License
 [MIT License](https://opensource.org/licenses/MIT) has been used for this project.
