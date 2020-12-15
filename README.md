@@ -1,4 +1,4 @@
-# DATA 512 Au 20: Human-Centered Data Science
+# GUN VIOLENCE
 
 *The Final Report with the Analysis and Findings can be found [here](https://nbviewer.jupyter.org/github/sanjanagupta16/data-512-final/blob/main/Final%20Report.ipynb?flush_cache=False).*
 
